@@ -2,7 +2,7 @@
 
 
 
-# Last Update: 06.03.2025
+# Last Update: 09.02.2026
 # Description: Quiz program to test knowledge of quadratic formula
 
 
@@ -825,3 +825,4 @@ menubar.add_cascade(label="Help", menu=helpmenu)
 showWelcomePage()
 mainUserWindow.config(menu=menubar)
 mainUserWindow.mainloop()
+
